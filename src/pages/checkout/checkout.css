@@ -1,0 +1,30 @@
+.cartItems table {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+
+.cartItems th,
+.cartItems td {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+}
+
+.cartItems th {
+    background-color: #f8f9fa;
+}
+
+.cartItems td {
+    text-align: center;
+}
+
+.cartItems th:first-child,
+.cartItems td:first-child {
+    text-align: left;
+}
+#pay{
+    margin: auto;
+    width: 10%;
+}

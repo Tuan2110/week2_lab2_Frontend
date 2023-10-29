@@ -1,0 +1,47 @@
+/* 
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+select {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+input {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #007BFF; 
+    color: #FFFFFF; 
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+} */
+
